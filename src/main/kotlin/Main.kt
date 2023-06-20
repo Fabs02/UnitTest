@@ -21,4 +21,5 @@ fun countXO(str:String): Boolean {
 fun main(args: Array<String>) {
     println(countXO("xxoo"))
     println(countXO("xxxo"))
+    println(countXO("xxxxo"))
 }

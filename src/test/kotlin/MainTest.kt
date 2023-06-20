@@ -7,5 +7,5 @@ class MainTest {
     fun testCountXO() {
         Assertions.assertTrue(countXO("xxoo"))
     }
-    
+
 }
